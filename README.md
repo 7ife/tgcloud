@@ -8,7 +8,7 @@
 - Clone the repository
 ```
 cd ~
-git clone https://github.com/SlavikMIPT/tgcloud.git
+git clone https://github.com/7ife/tgcloud.git
 ```
 - Install requirements for Python3.6
 
